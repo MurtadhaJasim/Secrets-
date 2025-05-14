@@ -9,7 +9,7 @@
 * User authentication and session management
 * Anonymous secret submission
 * Display of all submitted secrets
-* Secure storage of user data([Stack Overflow][1])
+* Secure storage of user data
 
 ## Demo
 
@@ -31,7 +31,7 @@ You can view the live demo here: [Secrets- Live Demo](https://murtadhajasim.gith
    cd Secrets-
    ```
 
-2. **Install dependencies:**([يوتيوب][2])
+2. **Install dependencies:**
 
    ```bash
    npm install
